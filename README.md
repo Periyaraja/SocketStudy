@@ -80,7 +80,8 @@ s.send("acknowledgement recived from the server".encode())
 ~~~
 
 ## Output:
-![image](https://github.com/user-attachments/assets/9f32a6e2-a764-46cd-b2ae-475d89149472)
+![443692796-9f32a6e2-a764-46cd-b2ae-475d89149472](https://github.com/user-attachments/assets/8fa30f88-6d2a-4aee-9060-ddf661442ba2)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
